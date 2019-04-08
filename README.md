@@ -1,4 +1,4 @@
-# Supplementary Information for 10.31235/osf.io/jnpe9
+# Supporting Information for 10.31235/osf.io/jnpe9
 ## Preprint available at: https://osf.io/preprints/socarxiv/jnpe9
 
 ### analysis-scripts contain statistical analysis of Wave 2, Wave 4 and Longitudinal Data From the World Values Survey
